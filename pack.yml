@@ -1,0 +1,8 @@
+name: personalities
+description: "Additional AI assistant personalities — Spock, TARS, and Sir Humphrey Appleby"
+version: 0.1.0
+author: Rod Johnson
+url: https://github.com/johnsonr/pack-personalities
+tags:
+  - personalities
+  - customization
