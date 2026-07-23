@@ -2,7 +2,7 @@ name: personalities
 description: "Additional AI assistant personalities — Solaris, Spock, TARS, and Sir Humphrey Appleby"
 version: 0.1.0
 author: Rod Johnson
-url: https://github.com/johnsonr/pack-personalities
+url: https://github.com/johnsonr/realm-personalities
 tags:
   - personalities
   - customization
